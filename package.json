@@ -1,6 +1,6 @@
 {
   "name": "git-copy-repos-labels-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for git-copy-repos-labels ",
   "bin": {
     "git-copy-repos-labels-cli": "./cli.js"
@@ -18,13 +18,13 @@
   "author": "scrum",
   "license": "MIT",
   "dependencies": {
-    "git-copy-repos-labels": "0.0.3",
+    "git-copy-repos-labels": "0.0.4",
     "meow": "^5.0.0"
   },
   "devDependencies": {
     "ava": "^2.2.0",
     "coveralls": "^3.0.6",
-    "execa": "^2.0.3",
+    "execa": "^2.0.4",
     "nyc": "^14.1.1",
     "read-pkg": "^5.2.0",
     "ts-node": "^8.3.0",
