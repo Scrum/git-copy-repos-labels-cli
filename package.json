@@ -1,6 +1,6 @@
 {
   "name": "git-copy-repos-labels-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for git-copy-repos-labels ",
   "bin": {
     "git-copy-repos-labels-cli": "./cli.js"
