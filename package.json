@@ -18,11 +18,11 @@
   "author": "scrum",
   "license": "MIT",
   "dependencies": {
-    "git-copy-repos-labels": "0.0.4",
+    "git-copy-repos-labels": "0.0.5",
     "meow": "^5.0.0"
   },
   "devDependencies": {
-    "ava": "^2.2.0",
+    "ava": "^2.3.0",
     "coveralls": "^3.0.6",
     "execa": "^2.0.4",
     "nyc": "^14.1.1",
