@@ -18,7 +18,7 @@
   "author": "scrum",
   "license": "MIT",
   "dependencies": {
-    "git-copy-repos-labels": "0.0.5",
+    "git-copy-repos-labels": "0.0.6",
     "meow": "^5.0.0"
   },
   "devDependencies": {
